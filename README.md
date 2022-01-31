@@ -1,4 +1,4 @@
-# SearchOnGraph
+# Searching on graphs
 BFS parallel implementation.
 
 
