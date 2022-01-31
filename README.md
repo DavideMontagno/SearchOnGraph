@@ -11,7 +11,8 @@ we focus on a particular kind of Data-Parallel Problem: the embarrassingly-
 parallel one.
 
 ### Prerequisites
-
+  * Download Fastflow into the main folder
+  See the BUILD.ME file for instructions about building unit tests and examples.
   ```sh
   https://github.com/fastflow/fastflow
   ```
