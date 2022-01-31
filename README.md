@@ -12,9 +12,10 @@ parallel one.
 
 ### Prerequisites
   * Download Fastflow into the main folder
-  See the BUILD.ME file for instructions about building unit tests and examples.
+  
   ```sh
   https://github.com/fastflow/fastflow
+  See the BUILD.ME file for instructions about building unit tests and examples.
   ```
 * compiling generation graph
   ```sh
