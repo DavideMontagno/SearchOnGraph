@@ -12,8 +12,6 @@ parallel one.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* download and install Fastflow 
   ```sh
   https://github.com/fastflow/fastflow
   ```
@@ -36,6 +34,7 @@ This is an example of how to list things you need to use the software and how to
   ```sh
       g++ -std=c++17 -O3 -pthread -I fastflow ff.cpp -o ff
   ```
+### Usage
 
 * Generate graphs
    ```sh
