@@ -47,10 +47,10 @@ parallel one.
    
 * Parallel Execution (StandardLibrary)
    ```js
-   ./par ./par num_nodes min_edges max_edges start_node value num_workers steal(0/1) active_wait(0/1) debug(0/1)
+   ./par num_nodes min_edges max_edges start_node value num_workers steal(0/1) active_wait(0/1) debug(0/1)
    ```
 * Parallel Execution (Fastflow)
    ```js
-   ./ff ./par num_nodes min_edges max_edges start_node value num_workers steal(0/1) active_wait(0/1) debug(0/1)
+   ./ff num_nodes min_edges max_edges start_node value num_workers steal(0/1) active_wait(0/1) debug(0/1)
    ```
 
